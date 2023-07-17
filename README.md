@@ -1,2 +1,2 @@
 # python
-'hello world'
+'Ola mundos'
